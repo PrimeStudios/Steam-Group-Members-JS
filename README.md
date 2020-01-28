@@ -2,7 +2,7 @@
 
 ## Overview
 
-A simple Javascript example for displaying a Steam Group's member count on your site using the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and Abdolence's [X2JS Library](https://github.com/abdolence/x2js).
+A simple JavaScript example for displaying a Steam Group's member count on your site using the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and Abdolence's [X2JS Library](https://github.com/abdolence/x2js).
 
 ## Usage
 
