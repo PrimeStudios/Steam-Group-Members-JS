@@ -15,4 +15,4 @@ const groupName = 'steamuniverse'; // The name of your Steam Group
 
 ## License
 
-This project is licensed under the [MIT](./LICENSE) License &copy; 2015-2020 [Thiradus](https://github.com/Thiradus)
+This project is licensed under the [MIT](./LICENSE.md) License &copy; 2019-2020 [Prime Studios](https://github.com/PrimeStudios/)
